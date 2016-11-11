@@ -8,5 +8,23 @@
     "lodash": "^4.14.1",
     "supertest": "^2.0.0",
     "supertest-as-promised": "^3.2.0"
+  },
+  "name": "node-assessment",
+  "description": "## Set up your node server",
+  "version": "1.0.0",
+  "main": "test.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleyhuang23/node-assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleyhuang23/node-assessment/issues"
+  },
+  "homepage": "https://github.com/wesleyhuang23/node-assessment#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
   }
 }
